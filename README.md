@@ -12,7 +12,7 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 
 #### 2. Data collection and understanding 
         a. Reading files 
-  
+        
 #### 3. Data cleaning and Exploration 
         a. Clean invalid guests
         b. Outlier removal in revenue generated
