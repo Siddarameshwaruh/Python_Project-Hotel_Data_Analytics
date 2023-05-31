@@ -11,14 +11,14 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 #### 1. Understanding business problems 
 
 #### 2. Data collection and understanding 
-        a. Reading files 
+  a. Reading files 
         
 #### 3. Data cleaning and Exploration 
-        a. Clean invalid guests
-        b. Outlier removal in revenue generated
+  a. Clean invalid guests
+  b. Outlier removal in revenue generated
   
 #### 4. Data transformation 
-        a. Create occupancy percentage column
+  a. Create occupancy percentage column
   
 #### 5. Collect insights 
   1. Average occupancy rate in each of the room categories
