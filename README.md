@@ -11,7 +11,7 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 #### 1. Understanding business problems 
 
 #### 2. Data collection and understanding 
-   > Reading files 
+   >> Reading files 
         
 #### 3. Data cleaning and Exploration 
    > Clean invalid guests
