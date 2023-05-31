@@ -21,13 +21,13 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
         a. Create occupancy percentage column
   
 #### 5. Collect insights 
-        a. Average occupancy rate in each of the room categories
-        b. Print average occupancy rate per city
-        c. When was the occupancy better? Weekday or Weekend?
-        d. In the month of June, what is the occupancy for different cities?
-        e. We got new data for the month of august. Append that to existing data
-        f. Print revenue realized per city
-        g. Print month by month revenue
-        h. Print revenue realized per hotel type
-        i. Print average rating per city
-        k. Print a pie chart of revenue realized per booking platform
+      a. Average occupancy rate in each of the room categories
+      b. Print average occupancy rate per city
+      c. When was the occupancy better? Weekday or Weekend?
+      d. In the month of June, what is the occupancy for different cities?
+      e. We got new data for the month of august. Append that to existing data
+      f. Print revenue realized per city
+      g. Print month by month revenue
+      h. Print revenue realized per hotel type
+      i. Print average rating per city
+      k. Print a pie chart of revenue realized per booking platform
