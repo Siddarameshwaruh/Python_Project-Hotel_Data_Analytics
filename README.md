@@ -8,26 +8,26 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Retrieve the data within a Jupyter Notebook and conduct an analysis through pandas 
 
-#### A. Understanding business problems 
+#### 1. Understanding business problems 
 
-#### B. Data collection and understanding 
-   1. Reading files 
+#### 2. Data collection and understanding 
+   > Reading files 
         
-#### C. Data cleaning and Exploration 
-    1. Clean invalid guests
-    2. Outlier removal in revenue generated
+#### 3. Data cleaning and Exploration 
+   > Clean invalid guests
+   > Outlier removal in revenue generated
   
-#### D. Data transformation 
-   1. Create occupancy percentage column
+#### 4. Data transformation 
+   > Create occupancy percentage column
   
-#### E. Collect insights 
-   1. Average occupancy rate in each of the room categories
-   2. Print average occupancy rate per city
-   3. When was the occupancy better? Weekday or Weekend?
-   4. In the month of June, what is the occupancy for different cities?
-   5. We got new data for the month of august. Append that to existing data
-   6. Print revenue realized per city
-   7. Print month by month revenue
-   8. Print revenue realized per hotel type
-   9. Print average rating per city
-   10. Print a pie chart of revenue realized per booking platform
+#### 5. Collect insights 
+   > Average occupancy rate in each of the room categories
+   > Print average occupancy rate per city
+   > When was the occupancy better? Weekday or Weekend?
+   > In the month of June, what is the occupancy for different cities?
+   > We got new data for the month of august. Append that to existing data
+   > Print revenue realized per city
+   > Print month by month revenue
+   > Print revenue realized per hotel type
+   > Print average rating per city
+   > Print a pie chart of revenue realized per booking platform
