@@ -44,7 +44,7 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 -    Functions 
 -    Dictionary 
 -    Tuples 
--    Modules and pip : Matplotlib
+-    Modules and pip : Matplotlib for creating visuals
 -    File handling 
 -    classes & Objects 
 -    Inheritance
