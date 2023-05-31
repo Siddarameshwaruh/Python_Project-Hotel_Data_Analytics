@@ -31,3 +31,21 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 -    Print revenue realized per hotel type
 -    Print average rating per city
 -    Print a pie chart of revenue realized per booking platform
+
+## key Learnings :
+
+ ### 1. Python basics : 
+-    Variables
+-    Numbers  
+-    String
+-    Lists  
+-    If condition 
+-    For loop
+-    Functions 
+-    Dictionary 
+-    Tuples 
+-    Modules and pip 
+-    File handling 
+-    classes & Objects 
+-    Inheritance
+-    Exception handling
