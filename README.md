@@ -34,7 +34,7 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 
 ## key Learnings :
 
- ### 1. Python basics : 
+ #### 1. Python basics : 
 -    Variables
 -    Numbers  
 -    String
@@ -44,8 +44,17 @@ Retrieve the data within a Jupyter Notebook and conduct an analysis through pand
 -    Functions 
 -    Dictionary 
 -    Tuples 
--    Modules and pip 
+-    Modules and pip : Matplotlib
 -    File handling 
 -    classes & Objects 
 -    Inheritance
 -    Exception handling
+
+ #### 2. Pandas basics : 
+-    Read Excel & CSV files
+-    Handle NA values
+-    Group by
+-    Concat and Merge
+-    Dataframe functions: shape, columns, apply, set_index, loc, iloc, describe
+-    Column level functions: unique, value_counts, max, min
+
